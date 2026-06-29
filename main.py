@@ -14,7 +14,7 @@ app.add_middleware(
 )
 
 API_KEY = "ak_6oa3imyn4wkxrwpfsngig65b"
-EMAIL = "gangulysiddhartha22@gmail.com"
+EMAIL = "23f3003587@ds.study.iitm.ac.in"
 
 class Event(BaseModel):
     user: str
